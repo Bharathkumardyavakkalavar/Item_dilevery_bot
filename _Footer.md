@@ -2,10 +2,10 @@
 ## TEAM INFORMATION
 | SI.No.  |  Student Name  |  SRN  |  Roll No.  |  Email  |
 |---------|----------------|-------|------------|---------|
-|1.|
-|2.|
-|3.|
-|4.|
+|1.|Apeksha G Haribhat|01FE21BEC052|852|01fe21bec052@kletech.ac.in|
+|2.|Bharatkumar M D|01FE21BEC055|855|01fe21bec055@kletech.ac.in|
+|3.|Megha Ramesh Ijantakar|01FE21BCS042|801|01fe21bcs042@kletech.ac.in|
+|4.|Nilesh M Poojari|01FE21BEC051|851|01fe21bec051@kletech.ac.in|
 ## Guide: Mr. Prashant Udapudi 
 ## ABOUT ENGINEERING EXPLORATION:
 The opportunity to explore materials and discover their potential is constantly evolving. An inquisitive and curious mind is needed to ensure that materials continue to push creative boundaries while still remaining functional under the decorative we deal with the project using components of mechatronics.
