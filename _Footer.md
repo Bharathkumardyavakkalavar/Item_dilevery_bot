@@ -30,6 +30,11 @@ Starship's robots calculate a route based upon the shortest distance and satelli
 Over time, the robots build a collaborative memory of an area, creating a wireframe map of constant features (buildings, crossings, statues, pathways, etc.) and ensuring that future journeys through the area are faster. The collaborative area-building makes navigation easier for every robot in the vicinity, with all units contributing to building out the local map.
 
 ### GOALS
+..
+
+### PROPOSED SYSTEM
+
+
 
 
 
