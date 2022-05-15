@@ -23,7 +23,6 @@ A robot is a machine, especially one programmable by a computer—capable of car
 ![image](https://user-images.githubusercontent.com/105161049/168427193-7b0e3481-2928-43e1-ac70-46a099c3b898.png)
 
 ### LITERATURE SURVEY
-
-
+The 2020 COVID-19 pandemic provided a new and interesting dynamic for Starship Technologies and its delivery robots. With huge numbers of people entering lockdown at differing times and with many people attempting to self-isolate and socially distance from the general public, the delivery robots present a perfect non-human delivery system. Starship Technologies, a robot manufacturing company was the first to use delivery robots as its core delivery method.
 
 
