@@ -8,21 +8,25 @@
 |4.|Nilesh M Poojari|01FE21BEC051|851|01fe21bec051@kletech.ac.in|
 ## Guide: Mr. Prashant Udapudi 
 ## ABOUT ENGINEERING EXPLORATION:
-The opportunity to explore materials and discover their potential is constantly evolving. An inquisitive and curious mind is needed to ensure that materials continue to push creative boundaries while still remaining functional under the decorative we deal with the project using components of mechatronics.
+The opportunity to explore materials and discover their potential is constantly evolving. An inquisitive mind is needed to ensure that materials continue to push creative boundaries while remaining functional under the decorative we deal with the project using mechatronics components.
 
-The goal of this module is to move from defining the problem to designing a solution. We begin by learning about the exploration phase, and we will exit this phase with a number of design concepts for peer review. We also learn how to decompose a design to evaluate its overall function, and essential process in creating good design essential to the life of our design. Finally, we learn how to critically examine past design artifacts to inform our current concepts so that we can sensibly differentiate our product.
+This module aims to move from defining the problem to designing a solution. We begin by learning about the exploration phase, and we will exit this phase with several design concepts for peer review. We also know how to decompose a design to evaluate its overall function and essential process in creating good design essential to the life of our design. Finally, we learn how to critically examine past design artifacts to inform our current concepts so that we can sensibly differentiate our product.
 
-From this we build trust among our team mates, which also helps in the personality development and with individual self confidence and co-ordination among us.
+From this, we build trust among our teammates, which also helps in personality development and individual self-confidence and coordination among us.
 ## Pertinent Information Gathering
 ### NEED STATEMENT
-Some industry is in need of a bot which can deliver different items to employees and workers.
+Some industry needs a bot that can deliver different items to employees and workers.
 ### INTRODUCTION
-A robot is a machine, especially one programmable by a computer—capable of carrying out a complex series of actions automatically. A robot can be guided by an external control device, or the control may be embedded within. A robot can execute one or more number tasks with speed and precision. A robot maybe autonomous or semi-autonomous. A delivery robot is an autonomous or semi-autonomous robot that provides delivery services. An operator may monitor and take control of the robot remotely in certain situations that the robot cannot resolve by itself such as when it is stuck in an obstacle.
+A robot is a machine, especially one programmable by a computer—capable of carrying out a complex series of actions automatically. A robot can be guided by an external control device, or the control may be embedded within. A robot can execute one or more number tasks with speed and precision. A robot is maybe autonomous or semi-autonomous. A delivery robot is an autonomous or semi-autonomous robot that provides delivery services. An operator may monitor and take control of the robot remotely in certain situations that the robot cannot resolve by itself such as when it is stuck in an obstacle.
 
 
 ![image](https://user-images.githubusercontent.com/105161049/168427193-7b0e3481-2928-43e1-ac70-46a099c3b898.png)
 
 ### LITERATURE SURVEY
-The 2020 COVID-19 pandemic provided a new and interesting dynamic for Starship Technologies and its delivery robots. With huge numbers of people entering lockdown at differing times and with many people attempting to self-isolate and socially distance from the general public, the delivery robots present a perfect non-human delivery system. Starship Technologies, a robot manufacturing company was the first to use delivery robots as its core delivery method.
+Due to the 2020 COVID-19 pandemic, with huge numbers of people entering lockdown at differing times and with many people attempting to self-isolate and socially distance from the general public, the delivery robots present a perfect non-human delivery system. Starship Technologies, a robot manufacturing company was the first to use delivery robots as its core delivery method. Starship was the first company to use delivery robots as its core delivery method.
+
+The starship delivery robots are capable of object identification and can also climb small steps. The route between a vendor and a delivery point might look A-to-B if you plug the locations into a navigation app... but there are extra considerations for a delivery robot, including sidewalks, crossings, driveways, humans, animals, vehicles, and so on.
+Starship's robots calculate a route based upon the shortest distance and satellite imagery detailing the route. Each feature on the route (crossings, driveways, etc.) receives a time calculation, which the robot factors into route selection and delivery time.
+Over time, the robots build a collaborative memory of an area, creating a wireframe map of constant features (buildings, crossings, statues, pathways, etc.) and ensuring that future journeys through the area are faster. The collaborative area-building makes navigation easier for every robot in the vicinity, with all units contributing to building out the local map.
 
 
