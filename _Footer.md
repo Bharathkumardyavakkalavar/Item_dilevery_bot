@@ -59,7 +59,15 @@ Usually, robots are of two types autonomous and semiautonomous. A fully autonomo
 |  03.|Arduno Mega 2560|The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has 54 digital input/output pins (of which 15 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button|![image](https://user-images.githubusercontent.com/105161049/168490197-d73a0323-0301-4b78-ba74-7ad1af4cc290.png)|
 |  05.|Breadboard|A breadboard, or protoboard, is a construction base for prototyping electronics. Originally the word referred to a literal breadboard, a polished piece of wood used when slicing bread Because the solderless breadboard does not require soldering, it is reusable.|![image](https://user-images.githubusercontent.com/105161049/168489239-04626e55-0484-4cf0-ab46-4fde2ff25d62.png)|
 |  06.|USB Cable|The term USB stands for "Universal Serial Bus". USB cable assemblies are some of the most popular cable types available, used mostly to connect computers to peripheral devices such as cameras, camcorders, printers, scanners, and more.|![image](https://user-images.githubusercontent.com/105161049/168489317-de490ad3-f497-4505-9c0f-e7261812f9b0.png)
-|  07.|Servo Motor|Servo motor works on PWM (Pulse width modulation) principle, means its angle of rotation is controlled by the duration of applied pulse to its Control PIN. Basically servo motor is made up of DC motor which is controlled by a variable resistor (potentiometer) and some gears.|![image](https://user-images.githubusercontent.com/105161049/168490099-496d3acd-a770-4834-a919-34dbaabc3761.png)
+|  07.|Servo Motor|Servo motor works on the PWM (Pulse width modulation) principle, which means its angle of rotation is controlled by the duration of applied pulse to its Control PIN. Basically servo motor is made up of a DC motor which is controlled by a variable resistor (potentiometer) and some gears.|![image](https://user-images.githubusercontent.com/105161049/168490099-496d3acd-a770-4834-a919-34dbaabc3761.png)
+|  08.|DC Motor|A DC motor (Direct Current motor) is the most common type of motor. DC motors normally have just two leads, one positive and one negative. If you connect these two leads directly to a battery, the motor will rotate. If you switch the leads, the motor will rotate in the opposite direction.|![image](https://user-images.githubusercontent.com/105161049/168490505-a92a2058-6e0e-4f87-96f9-82831c2dfecc.png)|
+|  09.|Motor Driver L298n|The L298N is a dual H-Bridge motor driver which allows speed and direction control of two DC motors at the same time. The module can drive DC motors that have voltages between 5 and 35V, with a peak current up to 2A.|![image](https://user-images.githubusercontent.com/105161049/168491355-da117820-ca61-415a-9c46-44f706d313cd.png).
+|  10.|HC-06 Bluetooth Module|The HC-06 is a class 2 slave Bluetooth module designed for transparent wireless serial communication. Once it is paired to a master Bluetooth device such as a PC, smartphone or tablet, its operation becomes transparent to the user. All data received through the serial input is immediately transmitted over the air.|![image](https://user-images.githubusercontent.com/105161049/168491611-77a19f48-3190-42ca-aeb8-1a72c727319a.png)|
+|  11.|
+
+
+
+
 
 
 
