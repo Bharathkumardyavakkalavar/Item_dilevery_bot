@@ -45,6 +45,6 @@ Usually, robots are of two types autonomous and semiautonomous. A fully autonomo
 * Wikipedia-Autonomous robots
 * Wikipedia-Delivery robots
 * [RersearchGate-Remote and Autonomous controlled delivery robot](https://www.researchgate.net/publication/330702209_Remote_and_Autonomous_Controlled_Robotic_Car_based_on_Arduino_with_Real_Time_Obstacle_Detection_and_Avoidance)
-
+* [Makeuseof.com ](https://www.makeuseof.com/how-delivery-robots-work/)
 
 
