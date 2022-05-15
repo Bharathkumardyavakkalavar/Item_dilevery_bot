@@ -29,14 +29,22 @@ The starship delivery robots are capable of object identification and can also c
 Starship's robots calculate a route based upon the shortest distance and satellite imagery detailing the route. Each feature on the route (crossings, driveways, etc.) receives a time calculation, which the robot factors into route selection and delivery time.
 Over time, the robots build a collaborative memory of an area, creating a wireframe map of constant features (buildings, crossings, statues, pathways, etc.) and ensuring that future journeys through the area are faster. The collaborative area-building makes navigation easier for every robot in the vicinity, with all units contributing to building out the local map.
 
+![image](https://user-images.githubusercontent.com/105161049/168473378-cc972623-abc7-41bd-a9aa-60362906c4d9.png)
+
+
+
 ### GOALS
 ..
 
 ### PROPOSED SYSTEM
-Usually, robots are of two types autonomous and semiautonomous. A fully autonomous robot performs tasks on its own without any human interference. While a semi-autonomous robot is a system that can operate autonomously under some conditions but may require human intervention to achieve its assigned goals. Building a fully autonomous delivery robot is very technical and complex, so it would be better to build a semi-autonomous delivery robot that can also be controlled by a human. An Arduino can be used as the brain of the delivery robot. It can be programmed to run automatically using sensors and the   HC-06 Bluetooth module can be used to control the delivery bot manually. Ultrasonic sensors can be used to detect obstacles and move away from them. This delivery bot can be used to deliver different items in an industry
+Usually, robots are of two types autonomous and semiautonomous. A fully autonomous robot performs tasks on its own without any human interference. While a semi-autonomous robot is a system that can operate autonomously under some conditions but may require human intervention to achieve its assigned goals. Building a fully autonomous delivery robot is very technical and complex, so it would be better to build a semi-autonomous delivery robot that can also be controlled by a human. An Arduino can be used as the brain of the delivery robot. It can be programmed to run automatically using sensors and the   HC-06 Bluetooth module can be used to control the delivery bot manually. A motor driver can be used to control the speed of the motor to which the wheels of the bot are attached. Ultrasonic sensors can be used to detect obstacles and move away from them. This delivery bot can be used to deliver different items in an industry or any workplace.
 
+![image](https://user-images.githubusercontent.com/105161049/168474160-cab3c2bb-7433-4bdb-a50f-6e2d318772cd.png)
 
-
+### REFERENCES
+* Wikipedia-Autonomous robots
+* Wikipedia-Delivery robots
+* [RersearchGate-Remote and Autonomous controlled delivery robot](https://www.researchgate.net/publication/330702209_Remote_and_Autonomous_Controlled_Robotic_Car_based_on_Arduino_with_Real_Time_Obstacle_Detection_and_Avoidance)
 
 
 
