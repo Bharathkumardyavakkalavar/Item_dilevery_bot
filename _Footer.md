@@ -29,4 +29,7 @@ The starship delivery robots are capable of object identification and can also c
 Starship's robots calculate a route based upon the shortest distance and satellite imagery detailing the route. Each feature on the route (crossings, driveways, etc.) receives a time calculation, which the robot factors into route selection and delivery time.
 Over time, the robots build a collaborative memory of an area, creating a wireframe map of constant features (buildings, crossings, statues, pathways, etc.) and ensuring that future journeys through the area are faster. The collaborative area-building makes navigation easier for every robot in the vicinity, with all units contributing to building out the local map.
 
+### GOALS
+
+
 
