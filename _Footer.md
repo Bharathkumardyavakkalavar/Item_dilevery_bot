@@ -52,5 +52,5 @@ Usually, robots are of two types autonomous and semiautonomous. A fully autonomo
  2. https://youtu.be/2QTqGarNZ58 
 
 ### ELECTRONICS COMPONENTS
-|SI.No.|Components or Parts used|Working Principle|Images|
-
+|  SI.No.  |  Components or Parts used  |  Working Principle  |  Images  |
+|------|------------------------|-----------------|------|
