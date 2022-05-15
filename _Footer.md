@@ -32,7 +32,9 @@ Over time, the robots build a collaborative memory of an area, creating a wirefr
 ### GOALS
 ..
 
-### PROPOSED SYSTEM
+### PROPOSED SYSTEM-
+Usually, delivery robots are of two types autonomous and semiautonomous. A fully autonomous robot performs tasks on its own without any human interference. While a semi-autonomous robot is a system that can operate autonomously under some conditions but may require human intervention to achieve its assigned goals. Building a fully autonomous delivery robot is very technical and complex, so it would be better to build a semi-autonomous delivery robot that can also be controlled by a human. An Arduino can be used as the brain of the delivery robot
+
 
 
 
