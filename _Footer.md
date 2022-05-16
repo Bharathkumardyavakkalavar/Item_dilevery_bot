@@ -63,7 +63,7 @@ Usually, robots are of two types autonomous and semiautonomous. A fully autonomo
 |  08.|DC Motor|A DC motor (Direct Current motor) is the most common type of motor. DC motors normally have just two leads, one positive and one negative. If you connect these two leads directly to a battery, the motor will rotate. If you switch the leads, the motor will rotate in the opposite direction.|![image](https://user-images.githubusercontent.com/105161049/168490505-a92a2058-6e0e-4f87-96f9-82831c2dfecc.png)|
 |  09.|Motor Driver L298n|The L298N is a dual H-Bridge motor driver which allows speed and direction control of two DC motors at the same time. The module can drive DC motors that have voltages between 5 and 35V, with a peak current up to 2A.|![image](https://user-images.githubusercontent.com/105161049/168491355-da117820-ca61-415a-9c46-44f706d313cd.png).
 |  10.|HC-06 Bluetooth Module|The HC-06 is a class 2 slave Bluetooth module designed for transparent wireless serial communication. Once it is paired to a master Bluetooth device such as a PC, smartphone or tablet, its operation becomes transparent to the user. All data received through the serial input is immediately transmitted over the air.|![image](https://user-images.githubusercontent.com/105161049/168491611-77a19f48-3190-42ca-aeb8-1a72c727319a.png)|
-|  11.|
+
 
 
 
