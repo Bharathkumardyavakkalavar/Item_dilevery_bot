@@ -8,12 +8,12 @@
 |4.|Nilesh M Poojari|01FE21BEC051|851|01fe21bec051@kletech.ac.in|
 ## Guide: Mr. Prashant Udapudi 
 ## ABOUT ENGINEERING EXPLORATION:
-The opportunity to explore materials and discover their potential is constantly evolving. An inquisitive mind is needed to ensure that materials continue to push creative boundaries while remaining functional under the decorative we deal with the project using mechatronics components.
+Engineering exploration is a course where we learn about solving a real-world problem by following some steps. Here we are provided with some need statement and we need to design a solution based on the given need statement.
+We start by simply understanding our need statement and gathering information related to it. Then we create a problem definition question related to our need statement. Then we move on to the concept generation phase where create different concepts related to our need statement and then to concept architecture. Then we move on to virtual implementation where we create 3D models, circuit diagrams etc. Finally, at the end, we move to physical  
+implement
 
-This module aims to move from defining the problem to designing a solution. We begin by learning about the exploration phase, and we will exit this phase with several design concepts for peer review. We also know how to decompose a design to evaluate its overall function and essential process in creating good design essential to the life of our design. Finally, we learn how to critically examine past design artifacts to inform our current concepts so that we can sensibly differentiate our product.
 
-From this, we build trust among our teammates, which also helps in personality development and individual self-confidence and coordination among us.
-## Pertinent Information Gathering
+
 ### NEED STATEMENT
 Some industry needs a bot that can deliver different items to employees and workers.
 ### INTRODUCTION
