@@ -38,7 +38,6 @@ Over time, the robots build a collective memory of an area, creating a wireframe
 * They ensure contactless delivery. Hence minimum exposure to Covid-19.
 * Delivery robots are faster.
 * It prevents wastage of time.
-* 
 
 ### PROPOSED SYSTEM
 Usually, robots are of two types autonomous and semiautonomous. A fully autonomous robot performs tasks on its own without any human interference. While a semi-autonomous robot is a system that can operate autonomously under some conditions but may require human intervention to achieve its assigned goals. Building a fully autonomous delivery robot is very technical and complex, so it would be better to build a semi-autonomous delivery robot that can also be controlled by a human. An Arduino can be used as the brain of the delivery robot. It can be programmed to run automatically using sensors and a Bluetooth module or radio waves can be used to control the delivery bot manually. A motor driver can be used to control the speed of the motor to which the wheels of the bot are attached. Ultrasonic sensors or IR sensors can be used to detect obstacles and alert the user. This delivery bot can be used to deliver different items in an industry or any workplace.
