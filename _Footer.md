@@ -14,4 +14,3 @@
 
 ## 02
 ![image](https://github.com/H-Division-2021-2022-Even/Repo-09/assets/105161049/22f2c6cc-fbac-419d-a361-3caa8c332f97)
-1. 1. 1. * 
