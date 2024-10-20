@@ -42,7 +42,7 @@ The bot's body design is documented in the `Virtual-Implementation.md` file, whi
 
 2. **Software Setup**:
    - Upload the Arduino code located in the `arduino_code.ino` file to the bot's microcontroller.
-   - Install the Bluetooth app on your Android device from the APK provided in the `app/` folder.
+   - Install the Bluetooth app on your Android device from the APK provided as `Control4motors(1).apk`file .
 
 3. **Bluetooth Pairing**:
    - Pair your phone with the bot's Bluetooth module.
